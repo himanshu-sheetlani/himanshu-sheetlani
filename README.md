@@ -2,11 +2,10 @@
 # Hi there👋, I'm Himanshu Sheetlani
 ## 💫 About Me:
 
-‍🎓 I'm currently pursuing my B.Tech Degree in Computer Science & Information Technology<br>🔭 I’m currently working on Full-Stack Development and DSA<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning ReactJS, GSAP<br>📫 How to reach me at himanshu.sheetlani2909@gmal.com<br>👨‍💻 All of my projects are available at https://github.com/himanshu-sheetlani<br>📄 Know about my experiences https://github.com/himanshu-sheetlani/portfolio/blob/main/assets/Himanshu%20Sheetlani%20resume.pdf
+‍🎓 I'm currently pursuing my B.Tech Degree in Computer Science & Information Technology<br>🔭 I’m currently working on Full-Stack Development and DSA<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning ReactJS, GSAP<br>📫 How to reach me at himanshu.sheetlani2909@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/himanshu-sheetlani<br>📄 Know about my experiences https://github.com/himanshu-sheetlani/portfolio/blob/main/assets/Himanshu%20Sheetlani%20resume.pdf
 
   
   
-
 ## 🌐 Connect with me:
 
 
@@ -40,8 +39,23 @@
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,gcp,figma,notion,inkscape,canva&theme=light)](https://skills.thijs.gg)
 
+## GSSOC(24) Badges 🎖
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
 
-
+## Hacktoberfest(24) Badges 🎖
 [![An image of @himanshusheetlani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshusheetlani)](https://holopin.io/@himanshusheetlani)
 
 
