@@ -1,14 +1,14 @@
 
 <!-- PHASE 1: BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Animated GitHub Profile Banner">
+  <source media="(prefers-color-scheme: dark)" srcset="./Banner/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./Banner/light.svg">
+  <img src="./Banner/dark.svg" alt="Animated GitHub Profile Banner">
 </picture>
 
 <!-- PHASE 2: STATS CARDS -->
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction:column; align-items: center; "> 
+<div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&hide_border=true&card_width=1180">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=0891B2&fire=10B981&currStreakLabel=0891B2&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&hide_border=true&card_width=1180">
@@ -16,16 +16,16 @@
   </picture>
 
   
-<div style="display: flex; flex-wrap: wrap; justify-content:center; gap: 1%; margin-top:10px">
-  <picture  style="flex: 1 1 49%;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&bg_color=F8FAFC&title_color=0891B2&icon_color=0891B2&text_color=0F172A&hide_border=true">
-    <img src="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&bg_color=0A101F&color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true" alt="GitHub Stats">
+<div style="margin-top:5px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&count_private=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true&card_width=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&count_private=true&bg_color=F8FAFC&title_color=0891B2&icon_color=0891B2&text_color=0F172A&hide_border=true&card_width=500">
+    <img src="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&count_private=true&bg_color=0A101F&color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true&card_width=500" alt="GitHub Stats" width="49%">
   </picture>
-  <picture style="flex: 1 1 49%;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-badges.netlify.app/api/top-langs?username=himanshu-sheetlani&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-badges.netlify.app/api/top-langs?username=himanshu-sheetlani&bg_color=F8FAFC&title_color=0891B2&icon_color=0891B2&text_color=0F172A&hide_border=true&layout=compact">
-    <img src="https://github-readme-badges.netlify.app/api/top-langs?  username=himanshu-sheetlani&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&  text_color=F1F5F9&hide_border=true&layout=compact" alt="Top Languages" width="75%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-badges.netlify.app/api/top-langs?username=himanshu-sheetlani&bg_color=0A101F&langs_count=8&title_color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true&layout=compact&card_width=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-badges.netlify.app/api/top-langs?username=himanshu-sheetlani&bg_color=F8FAFC&langs_count=8&title_color=0891B2&icon_color=0891B2&text_color=0F172A&hide_border=true&layout=compact&card_width=500">
+    <img src="https://github-readme-badges.netlify.app/api/top-langs?  username=himanshu-sheetlani&bg_color=0A101F&langs_count=8&title_color=22D3EE&icon_color=22D3EE&  text_color=F1F5F9&hide_border=true&layout=compact&card_width=500" alt="Top Languages" width="49%">
   </picture>
 
 </div>
@@ -34,12 +34,12 @@
 
 <!-- PHASE 3: CONTRIBUTION 3D GRAPH -->
 ## 🌐 Contribution Graph
-<div style= "align:center">
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contribution/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contribution/profile-green.svg" />
-  <img alt="3D Crontibution Graph" src="./profile-3d-contribution/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img alt="3D Crontibution Graph" src="./profile-3d-contrib/profile-night-green.svg" />
 </picture>
 
 </div>
