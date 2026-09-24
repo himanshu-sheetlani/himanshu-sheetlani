@@ -11,7 +11,7 @@
 <div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&hide_border=true&card_width=1180">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=0891B2&fire=10B981&currStreakLabel=0891B2&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&hide_border=true&card_width=1180">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=F8FAFC&stroke=22D3EE&ring=0891B2&fire=10B981&currStreakLabel=0F172A&sideLabels=0F172A&currStreakNum=0891B2&sideNums=0F172A&hide_border=true&card_width=1180">
     <img src="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&&hide_border=true&card_width=1180" alt="GitHub Streak">
   </picture>
 
