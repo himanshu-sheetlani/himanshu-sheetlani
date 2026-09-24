@@ -1,96 +1,79 @@
 
-# Hi there👋, I'm Himanshu Sheetlani
-## 💫 About Me:
+<!-- PHASE 1: BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img src="dark.svg" alt="Animated GitHub Profile Banner">
+</picture>
 
-‍🎓 I'm currently pursuing my B.Tech Degree in Computer Science & Information Technology<br>🔭 I’m currently working on Full-Stack Development and DSA<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning ReactJS, GSAP<br>📫 How to reach me at himanshu.sheetlani2909@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/himanshu-sheetlani<br>📄 Know about my experiences https://github.com/himanshu-sheetlani/portfolio/blob/main/assets/Himanshu%20Sheetlani%20resume.pdf
+<!-- PHASE 2: STATS CARDS -->
+## 📊 GitHub Stats
+<div style="display: flex; flex-direction:column; align-items: center; "> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&hide_border=true&card_width=1180">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=0891B2&fire=10B981&currStreakLabel=0891B2&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&hide_border=true&card_width=1180">
+    <img src="https://streak-stats.demolab.com?user=himanshu-sheetlani&theme=github-dark-blue&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&&hide_border=true&card_width=1180" alt="GitHub Streak">
+  </picture>
 
   
-  
-## 🌐 Connect with me:
+<div style="display: flex; flex-wrap: wrap; justify-content:center; gap: 1%; margin-top:10px">
+  <picture  style="flex: 1 1 49%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&bg_color=F8FAFC&title_color=0891B2&icon_color=0891B2&text_color=0F172A&hide_border=true">
+    <img src="https://github-readme-badges.netlify.app/api?username=himanshu-sheetlani&show_icons=true&bg_color=0A101F&color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true" alt="GitHub Stats">
+  </picture>
+  <picture style="flex: 1 1 49%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-badges.netlify.app/api/top-langs?username=himanshu-sheetlani&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&text_color=F1F5F9&hide_border=true&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-badges.netlify.app/api/top-langs?username=himanshu-sheetlani&bg_color=F8FAFC&title_color=0891B2&icon_color=0891B2&text_color=0F172A&hide_border=true&layout=compact">
+    <img src="https://github-readme-badges.netlify.app/api/top-langs?  username=himanshu-sheetlani&bg_color=0A101F&title_color=22D3EE&icon_color=22D3EE&  text_color=F1F5F9&hide_border=true&layout=compact" alt="Top Languages" width="75%">
+  </picture>
 
-
-<p  align="left">
-
-<a  href="https://linkedin.com/in/himanshu-sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin"  height="30"  width="40" /></a>  <a  href="https://codeforces.com/profile/himanshu_sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  alt="codeforces"  height="30"  width="40" /></a> <a  href="https://www.leetcode.com/himanshu_sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="leetcode"  height="30"  width="40" /></a> <a  href="https://stackoverflow.com/users/himanshu-sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="stackoverflow"  height="30"  width="40" /></a> <a  href="https://instagram.com/himanshu_sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="instagram"  height="30"  width="40" /></a> <a  href="https://instagram.com/himanshu_sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  alt="instagram"  height="30"  width="40" /></a> <a  href="https://fb.com/himanshu.sheetlani.35/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  alt="FaceBook"  height="30"  width="40" /></a> <a  href="https://codepen.io/himanshu-sheetlani"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="codepen"  height="30"  width="40" /></a> <a  href="https://www.codechef.com/users/himanshusheetl"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  alt="codechef"  height="30"  width="40" /></a> <a  href="https://www.hackerrank.com/himanshu_sheetl1"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="hackerrank"  height="30"  width="40" /></a>
-
-</p>
-
-  
-
-## 💻 Tech Stack:
-
-```Programming Languages```
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,c,java&theme=light)](https://skills.thijs.gg)
-
-```Front-End Technologies```
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=light)](https://skills.thijs.gg)
-
-```Back-End Technologies```
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skills.thijs.gg)
-
-```Databases```
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skills.thijs.gg)
-
-```Tools & Platforms```
-
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,gcp,figma,notion,inkscape,canva&theme=light)](https://skills.thijs.gg)
-
-## GSSOC(24) Badges 🎖
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
 </div>
 
-## Other Badges 🎖
-[![An image of @himanshusheetlani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshusheetlani)](https://holopin.io/@himanshusheetlani)
 
+<!-- PHASE 3: CONTRIBUTION 3D GRAPH -->
+## 🌐 Contribution Graph
+<div style= "align:center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contribution/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contribution/profile-green.svg" />
+  <img alt="3D Crontibution Graph" src="./profile-3d-contribution/profile-night-green.svg" />
+</picture>
 
-## 📊 GitHub Stats:
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=himanshu-sheetlani&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- PHASE 4: SOCIAL BADGES -->
+## 🔗 Connect with Me
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=himanshu-sheetlani&theme=transparent&hide_border=false)<br/>
+<a href="https://www.linkedin.com/in/himanshu-sheetlani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/himanshu_sheetlani/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>&nbsp;&nbsp;
+<a href="mailto:himanshu.sheetlani2909@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>&nbsp;&nbsp;
+<a href="https://himanshu-sheetlani.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sheetlani&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- PHASE 5: TECH STACK -->
+## 💻 Tech Stack
 
-  
+### Frontend
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap" alt="Frontend" />
 
-## 🏆 GitHub Trophies
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,graphql" alt="Backend" />
 
-![](https://github-profile-trophy-kannan.vercel.app/?username=himanshu-sheetlani&theme=darkhub)
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
 
-  
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,git,github,firebase,aws,cloudinary" alt="DevOps & Cloud" />
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-  
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=himanshu-sheetlani&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu-sheetlani&bg_color=1c1c1c&color=006aff&line=006aff&point=c2c2c2&area=true&area_color=c2dbff&hide_border=true)
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=himanshu-sheetlani&icon=0&color=0)](https://visitcount.itsvg.in)
+### Other Tools
+<img src="https://skillicons.dev/icons?i=postman,npm,ai,github" alt="Other Tools" />
